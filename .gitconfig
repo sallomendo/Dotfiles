@@ -1,0 +1,5 @@
+[user]
+	name = Salvador Lopez Mendoza
+	email = sallomendo@gmail.com
+[credential]
+	helper = osxkeychain
