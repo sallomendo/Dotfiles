@@ -3,6 +3,8 @@ brew install antigen
 brew install yarn
 
 brew install --cask iterm2
+brew install --cask 1password
+brew install --cask google-chrome
 brew install --cask hammerspoon
 brew install --cask visual-studio-code
 brew install --cask docker
