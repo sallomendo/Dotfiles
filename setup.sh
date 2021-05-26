@@ -12,6 +12,7 @@ brew install --cask flux
 brew install --cask numi
 brew install --cask postico
 brew install --cask proxyman
+brew install --cask insomnia
 brew install --cask raycast
 brew install --cask slack
 brew install --cask spotify

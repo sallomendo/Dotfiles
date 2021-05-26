@@ -3,3 +3,7 @@
 	email = sallomendo@gmail.com
 [credential]
 	helper = osxkeychain
+[pull]
+	rebase = false
+[init]
+	defaultBranch = master
