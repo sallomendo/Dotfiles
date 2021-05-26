@@ -1,5 +1,6 @@
 brew install zsh
 brew install antigen
+brew install nodenv
 brew install yarn
 
 brew install --cask iterm2

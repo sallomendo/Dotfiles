@@ -15,6 +15,8 @@ export PATH=$PATH:$ANDROID_SDK/tools/bin
 export PATH=$PATH:$ANDROID_SDK/platform-tools
 export PATH=$PATH:$ANDROID_SDK/emulator
 
+# nodenv
+eval "$(nodenv init -)"
+
 # Altruist
 alias alt-config="source /etc/altruist/config"
-
